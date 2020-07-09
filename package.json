@@ -1,0 +1,27 @@
+{
+  "name": "html_training2020",
+  "version": "1.0.0",
+  "description": "HTML研修2020",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NRI Netcom, Ltd.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://nncwbc.backlog.jp/git/WEB_TRE2020/HTML_TRAINING.git"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.8.4",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gridlex": "^2.7.1",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sass-lint": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
